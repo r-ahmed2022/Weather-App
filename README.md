@@ -29,11 +29,14 @@ Any kind of browser and code editor.
     4. Type npm install in your terminal
     5. Type npm start in your terminal, this will open the project in your browser
 
-# Author 1
+- ## 👥 Author <a name="authors"></a>
 
-- GitHub: [@Riyaz](https://github.com/r-ahmed2022)
-- Twitter:[@Riyaz](https://github.com/r-ahmed2022)
-- LinkedIn:[@Riyaz](https://github.com/r-ahmed2022)
+👤 **Riyaz Ahmed**
+- Portfolio: [Portfolio](https://r-ahmed2022.github.io/myportfolio/)
+- GitHub: [@r-ahmed2022](https://github.com/r-ahmed2022)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/riyaz-ahmed-4216a71a8/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 # Author 2
 
 - GitHub: [@Ney2](https://github.com/Ney2)

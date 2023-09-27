@@ -1,4 +1,4 @@
-/* eslint-disable no-undef */
+ /* eslint-disable no-undef */
 /* eslint-disable prefer-const */
 /* eslint-disable no-unused-vars */
 import img from '../images/heart.png';
@@ -43,7 +43,7 @@ const otherCitiesWeather = async (city) => {
                      </div>
          <ul class="'currentinfo'">
               <li class="weatherinfo">Degree: ${temp}</li>
-              <li class="weatherinfo">Weather: ${description}</li> 
+              <li class="weatherinfo">Weather: ${description}</li> rtu
               <li class="likes-item"><span class= "likes-qty" id="likes-qty" data="${data.name}">0</span> likes</li>
           </ul>
           
